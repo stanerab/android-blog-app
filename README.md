@@ -70,7 +70,7 @@ This project was submitted for **6CS027 Secure Mobile Application Development** 
 
 ## Demo
 
-A short demonstration video of the working application is available on request, or via the [portfolio site](https://portfolio.blueprintcaretech.com).
+A short demonstration video of the working application is available via https://www.youtube.com/watch?v=kh93NAXIFpY&t=367s
 
 ---
 
