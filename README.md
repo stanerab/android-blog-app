@@ -2,7 +2,7 @@
 
 A native Android blogging application built in **Java** using **Android Studio**, developed as portfolio coursework for **6CS027 Secure Mobile Application Development** at the University of Wolverhampton.
 
-The app supports **both offline and online** workflows — users can create, manage, and search blog posts entirely on-device, attach media from the camera or photo gallery, share content via Android's standard intent system, and upload posts to Facebook for online publishing.
+The app supports **both offline and online** workflows. users can create, manage, and search blog posts entirely on-device, attach media from the camera or photo gallery, share content via Android's standard intent system, and upload posts to Facebook for online publishing.
 
 **Final mark: 95% (Distinction)**
 
